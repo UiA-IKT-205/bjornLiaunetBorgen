@@ -1,0 +1,8 @@
+com/example/myapplication/databinding/FragmentFullTonePianoKeyBinding.java
+ com.example.myapplication.databinding.FragmentFullTonePianoKeyBinding
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/databinding/ActivityMainBinding.java
+ com.example.myapplication.databinding.ActivityMainBinding
+com/example/myapplication/databinding/FragmentPianoBinding.java
+ com.example.myapplication.databinding.FragmentPianoBinding
